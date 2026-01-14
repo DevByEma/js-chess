@@ -23,6 +23,6 @@ This project focuses on implementing chess rules, move validation, and basic gam
 git clone https://github.com/DevByEma/js-chess.git
 ```
 
-2.Open index.html in your browser.
+ 2.Open index.html in your browser.
 
 3. Start playing!
